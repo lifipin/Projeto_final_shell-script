@@ -2,3 +2,5 @@
 #Este aqui é o arquivo que iremos estruturar o trabalho final de limpeza e otimização do sistema
 #O usuário deve conseguir apontar aonde quer executar a limpeza
 #O usuário deve escolher um período que deseja limpar os arquivos
+
+echo "Limpeza e otimização de sistema"
