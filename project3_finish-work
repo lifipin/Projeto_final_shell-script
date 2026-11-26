@@ -4,3 +4,5 @@
 #O usuário deve escolher um período que deseja limpar os arquivos
 
 echo "Limpeza e otimização de sistema"
+echo "teste github"
+if [commit]
